@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background-color: teal;
+    color: floralwhite;
+    text-align: center;
+    padding: 20px 0;
+}
+header div h1 {
+    font-size: 2em;
+}
+header div p {
+    font-size: 28px;
+    color: floralwhite;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    color: teal;
+    font-size: 2em;
+}
+p {
+    font-size: 20px;
+    color: teal;
+}
+.project {
+    margin-bottom: 20px;
+}
+div h3 {
+    font-size: 25px;
+    color: teal;
+}
+li {
+    color: teal;
+    font-size: 20px;
+}
+
+footer {
+    background-color: floralwhite;
+    color: teal;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+}
